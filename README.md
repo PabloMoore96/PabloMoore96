@@ -71,5 +71,5 @@ Here are some ideas to get you started:
 </p>
 
 
-<h3 align="center">Certificados:</h3>
-<p align="left">https://www.coderhouse.com/certificados/645e8adb2d66b3b82f06a375</p>
+<h3 align="center">Certificates:</h3>
+<p align="center">Web Developer: https://www.coderhouse.com/certificados/645e8adb2d66b3b82f06a375</p>
